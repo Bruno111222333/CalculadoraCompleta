@@ -1,0 +1,10 @@
+/**/
+button, label{
+  margin-top: 10px;
+}
+.painel button{
+  width:70px;
+  height:50px;
+  font-size: 30px;
+  
+}
